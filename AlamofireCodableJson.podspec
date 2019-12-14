@@ -17,10 +17,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Imran Khan" => "imkhan334@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/imkhan334/CodableJson"
+s.homepage = "https://github.com/imkhan334/alamofire-codable-json"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/imkhan334/CodableJson.git",
+s.source = { :git => "https://github.com/imkhan334/alamofire-codable-json.git",
 :tag => "#{s.version}" }
 
 # 7
@@ -28,7 +28,7 @@ s.frameworks = "UIKit", "Foundation"
 s.dependency 'Alamofire', '~> 4.7'
 
 # 8
-s.source_files = "CodableJson/**/*.{swift}"
+s.source_files = "AlamofireCodableJson/**/*.{swift}"
 
 
 # 10
