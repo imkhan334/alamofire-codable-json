@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_CodableJsonVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_CodableJsonVersionString[];
+FOUNDATION_EXPORT double Pods_AlamofireCodableJsonVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_AlamofireCodableJsonVersionString[];
 

@@ -3,8 +3,8 @@ Pod::Spec.new do |s|
 # 1
 s.platform = :ios
 s.ios.deployment_target = '9.1'
-s.name = "CodableJson"
-s.summary = "CodableJson will help you in converting json to codable objects easily."
+s.name = "AlamofireCodableJson"
+s.summary = "AlamofireCodableJson will convert json returned from alamofire to codable objects."
 s.requires_arc = true
 
 # 2
